@@ -1,0 +1,9 @@
+Steps to Solve any patterns using loop:
+
+1. No. of lines = No. of Rows = No. of outer loop iterations
+
+2. Identify for every row no.:
+   i. How many columns are there.
+   ii.Types of columns in the row.
+
+3.What do you need to print.

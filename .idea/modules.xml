@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA(KK).iml" filepath="$PROJECT_DIR$/.idea/DSA(KK).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching Methods/Searching Methods.iml" filepath="$PROJECT_DIR$/Searching Methods/Searching Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Methods/Sorting Methods.iml" filepath="$PROJECT_DIR$/Sorting Methods/Sorting Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsAndStringBuilder/StringsAndStringBuilder.iml" filepath="$PROJECT_DIR$/StringsAndStringBuilder/StringsAndStringBuilder.iml" />
+    </modules>
+  </component>
+</project>
